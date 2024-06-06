@@ -1,5 +1,7 @@
 ## dena-autumn2023-frontend
 
+![cli](https://raw.githubusercontent.com/KakinokiKanta/dena-autumn2023-frontend/image/dena_CLI_ans.png)
+
 株式会社DeNA様のオータムハッカソン2023で開発したWebアプリです。私はフロントエンドの開発を担当し、このWebアプリでハッカソンを優勝しました!
 
 このアプリは、在宅ワークが多く業務以外の交流が図りづらいエンジニア向けの「CLIで操作できる自己紹介リレー」アプリです。
