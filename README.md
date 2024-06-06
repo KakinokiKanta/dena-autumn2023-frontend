@@ -10,7 +10,7 @@
 
 TypeScriptとNext.jsで開発して、vercel でデプロイしていました。
 
-現在は、バックエンドをデプロイしていたGCPを止めているため、使用することはできません。（一応サイト内でhelpコマンドだけは使用できます...）
+現在は、バックエンドをデプロイしていないため、使用することはできません。（一応サイト内でhelpコマンドだけは使用できます...）
 
 ハッカソンで発表したスライドは[こちら](https://docs.google.com/presentation/d/1aWybADme1O4EncY2zE7ORNhTWaweKGhEy2FZg8a80DM/edit?usp=sharing)。
 
